@@ -2,9 +2,9 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ma-hartma/slowmac](https://github.com/ma-hartma/slowmac) -  (2 days ago)
+- [ma-hartma/slowmac](https://github.com/ma-hartma/slowmac) -  (3 days ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (1 week ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 weeks ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 weeks ago)
 
 #### 🌱 My latest projects
 
