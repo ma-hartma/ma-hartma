@@ -14,7 +14,7 @@
 
 #### 📓 My recent blog posts
 
-- [Setup a single master kubernetes cluster on ubuntu with kubeadm](https://mahartma.com/blog/k8s-setup-kubeadm-ubuntu/) (2 months ago)
+- [Setup a single master kubernetes cluster on ubuntu with kubeadm](https://mahartma.com/blog/k8s-setup-kubeadm-ubuntu/) (3 months ago)
 
 #### 💬 Feedback
 
