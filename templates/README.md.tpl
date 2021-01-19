@@ -10,18 +10,12 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 📓 My recent blog posts
-{{range rss "https://mahartma.com/blog/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### 💬 Feedback
 
 Don't hesitate to contact me!
 
 #### 📫 How to reach me
 
-- Blog: https://mahartma.com
 - Mastodon: https://chaos.social/@mahartma
 - IRC Freenode: ma-hartma
 
