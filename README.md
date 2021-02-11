@@ -4,7 +4,7 @@
 
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (4 months ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (4 months ago)
-- [ma-hartma/slowmac](https://github.com/ma-hartma/slowmac) -  (4 months ago)
+- [ma-hartma/slowmac](https://github.com/ma-hartma/slowmac) -  (5 months ago)
 
 #### 🌱 My latest projects
 
