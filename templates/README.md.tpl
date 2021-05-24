@@ -17,7 +17,7 @@ Don't hesitate to contact me!
 #### 📫 How to reach me
 
 - Mastodon: https://chaos.social/@mahartma
-- IRC Freenode: ma-hartma
+- IRC Libera: mahartma
 
 Wondering, how to get your own self-generating profile page? 
 Check out muesli's awesome [readme-scribe](https://github.com/muesli/readme-scribe)!
