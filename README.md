@@ -2,9 +2,9 @@
 
 #### 🔭 Check out what I'm currently working on
 
+- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (today)
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (2 months ago)
 - [Squidex/squidex-docs2](https://github.com/Squidex/squidex-docs2) - Official Squidex Documentation (2 months ago)
-- [knoxite/website](https://github.com/knoxite/website) - knoxite.com (10 months ago)
 
 #### 🌱 My latest projects
 
