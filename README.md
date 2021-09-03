@@ -2,7 +2,7 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (6 days ago)
+- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (1 week ago)
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (3 months ago)
 - [Squidex/squidex-docs2](https://github.com/Squidex/squidex-docs2) - Official Squidex Documentation (3 months ago)
 
