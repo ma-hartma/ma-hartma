@@ -2,8 +2,8 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (5 days ago)
-- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (4 weeks ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (6 days ago)
+- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (1 month ago)
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (3 months ago)
 
 #### 🌱 My latest projects
