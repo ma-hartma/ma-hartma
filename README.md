@@ -4,7 +4,7 @@
 
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 week ago)
 - [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (1 month ago)
-- [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (3 months ago)
+- [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (4 months ago)
 
 #### 🌱 My latest projects
 
