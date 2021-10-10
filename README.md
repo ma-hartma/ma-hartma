@@ -2,8 +2,8 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (today)
-- [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (today)
+- [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (1 day ago)
+- [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (1 day ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 weeks ago)
 
 #### 🌱 My latest projects
