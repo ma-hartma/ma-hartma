@@ -4,7 +4,7 @@
 
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (1 week ago)
 - [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (1 week ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (4 weeks ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 month ago)
 
 #### 🌱 My latest projects
 
