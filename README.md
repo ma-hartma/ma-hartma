@@ -2,9 +2,9 @@
 
 #### 🔭 Check out what I'm currently working on
 
+- [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (today)
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (2 weeks ago)
 - [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (2 weeks ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 month ago)
 
 #### 🌱 My latest projects
 
