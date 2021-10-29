@@ -2,7 +2,7 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (1 day ago)
+- [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (2 days ago)
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (2 weeks ago)
 - [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (2 weeks ago)
 
