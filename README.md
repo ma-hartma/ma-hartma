@@ -3,8 +3,8 @@
 #### 🔭 Check out what I'm currently working on
 
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (1 week ago)
-- [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (3 weeks ago)
-- [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (3 weeks ago)
+- [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (4 weeks ago)
+- [peeraluate/peeraluate](https://github.com/peeraluate/peeraluate) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
