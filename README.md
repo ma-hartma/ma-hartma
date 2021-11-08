@@ -2,9 +2,9 @@
 
 #### 🔭 Check out what I'm currently working on
 
+- [fedipedia/landingpage](https://github.com/fedipedia/landingpage) - fedipedia landing page (today)
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (1 week ago)
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (1 month ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 month ago)
 
 #### 🌱 My latest projects
 
