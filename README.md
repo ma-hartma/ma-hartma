@@ -2,7 +2,7 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [fedipedia/landingpage](https://github.com/fedipedia/landingpage) - fedipedia landing page (4 days ago)
+- [fedipedia/landingpage](https://github.com/fedipedia/landingpage) - fedipedia landing page (5 days ago)
 - [Squidex/squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub (2 weeks ago)
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) -  (1 month ago)
 
