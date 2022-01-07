@@ -4,7 +4,7 @@
 
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 weeks ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (1 month ago)
-- [fedipedia/landingpage](https://github.com/fedipedia/landingpage) - fedipedia landing page (1 month ago)
+- [fedipedia/landingpage](https://github.com/fedipedia/landingpage) - fedipedia landing page (2 months ago)
 
 #### 🌱 My latest projects
 
