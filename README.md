@@ -2,15 +2,15 @@
 
 #### 🔭 Check out what I'm currently working on
 
+- [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger. (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 months ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (3 months ago)
-- [fedipedia/landingpage](https://github.com/fedipedia/landingpage) - fedipedia landing page (4 months ago)
 
 #### 🌱 My latest projects
 
+- [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger.
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) - 
 - [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles
-- [ma-hartma/blog](https://github.com/ma-hartma/blog) - my blog
 
 #### 💬 Feedback
 
