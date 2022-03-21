@@ -2,9 +2,9 @@
 
 #### 🔭 Check out what I'm currently working on
 
+- [AlexCuse/watermill-jetstream](https://github.com/AlexCuse/watermill-jetstream) -  (1 day ago)
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (2 days ago)
 - [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger. (2 days ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 months ago)
 
 #### 🌱 My latest projects
 
