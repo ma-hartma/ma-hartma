@@ -1,12 +1,12 @@
 ### Welcome to my GitHub profile!
 
 #### 🔭 Check out what I'm currently working on
-{{range recentContributions 3}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 3}}
+{{range recentRepos 2}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
