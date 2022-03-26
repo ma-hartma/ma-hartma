@@ -5,12 +5,13 @@
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) -  (6 days ago)
 - [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (6 days ago)
 - [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger. (1 week ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (1 week ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 months ago)
 
 #### 🌱 My latest projects
 
 - [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger.
 - [ma-hartma/fastmac](https://github.com/ma-hartma/fastmac) - 
-- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles
 
 #### 💬 Feedback
 
