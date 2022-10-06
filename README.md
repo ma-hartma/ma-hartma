@@ -2,7 +2,7 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (1 month ago)
+- [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (2 months ago)
 - [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (2 months ago)
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) -  (6 months ago)
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (6 months ago)
