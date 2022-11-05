@@ -6,7 +6,7 @@
 - [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (3 months ago)
 - [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (3 months ago)
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) -  (7 months ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (7 months ago)
+- [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger. (7 months ago)
 
 #### 🌱 My latest projects
 
