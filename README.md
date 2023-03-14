@@ -4,9 +4,9 @@
 
 - [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (4 months ago)
 - [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (7 months ago)
-- [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (7 months ago)
+- [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (8 months ago)
 - [AlexCuse/watermill-jetstream-archived](https://github.com/AlexCuse/watermill-jetstream-archived) -  (11 months ago)
-- [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger. (11 months ago)
+- [ma-hartma/watermill-logrus-adapter](https://github.com/ma-hartma/watermill-logrus-adapter) - An adapter for using watermill with logrus logger. (1 year ago)
 
 #### 🌱 My latest projects
 
