@@ -2,8 +2,8 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (4 months ago)
-- [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (7 months ago)
+- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (5 months ago)
+- [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (8 months ago)
 - [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (8 months ago)
 
 #### 🌱 My latest projects
