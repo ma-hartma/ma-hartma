@@ -3,6 +3,7 @@
 #### 🔭 Check out what I'm currently working on
 
 - [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (2 weeks ago)
+- [openlab-aux/wikidata](https://github.com/openlab-aux/wikidata) - automatic gitit wikidata mirror (don&#39;t push your changes here!) (8 months ago)
 - [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (9 months ago)
 - [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (10 months ago)
 
