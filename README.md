@@ -5,7 +5,7 @@
 - [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (2 months ago)
 - [openlab-aux/wikidata](https://github.com/openlab-aux/wikidata) - automatic gitit wikidata mirror (don&#39;t push your changes here!) (10 months ago)
 - [ThreeDotsLabs/watermill-jetstream](https://github.com/ThreeDotsLabs/watermill-jetstream) -  (11 months ago)
-- [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (11 months ago)
+- [openlab-aux/IaC](https://github.com/openlab-aux/IaC) - Infrastructure as Code for OpenLab infrastructure (1 year ago)
 
 #### 🌱 My latest projects
 
