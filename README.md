@@ -3,7 +3,7 @@
 #### 🔭 Check out what I'm currently working on
 
 - [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (4 months ago)
-- [openlab-aux/wikidata](https://github.com/openlab-aux/wikidata) - automatic gitit wikidata mirror (don&#39;t push your changes here!) (11 months ago)
+- [openlab-aux/wikidata](https://github.com/openlab-aux/wikidata) - automatic gitit wikidata mirror (don&#39;t push your changes here!) (1 year ago)
 
 #### 🌱 My latest projects
 
