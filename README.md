@@ -2,7 +2,7 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (5 months ago)
+- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (6 months ago)
 
 #### 🌱 My latest projects
 
