@@ -2,7 +2,6 @@
 
 #### 🔭 Check out what I'm currently working on
 
-- [ma-hartma/dotfiles](https://github.com/ma-hartma/dotfiles) - My dotfiles (1 year ago)
 
 #### 🌱 My latest projects
 
